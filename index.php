@@ -2,8 +2,5 @@
 
 $name ="Sumit";
 
-echo "hello ".$name;
-
-
 
 ?>
