@@ -1,9 +1,6 @@
-<?Php 
+<?php 
 
-var name ="Sumit"
+$name ="Sumit";
 
-echo "hello " . $name;
-
-
-
+echo "hello ".$name;
 ?>
